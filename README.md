@@ -1,6 +1,8 @@
 # Browser Startup Page
 This project is a custom browser startup page created to organize bookmarks in an aesthetic, retro-themed interface. Built entirely with HTML and CSS, it categorizes various resources, tools, and entertainment options for quick access, providing a streamlined browsing experience.
 
+![Interface](https://github.com/user-attachments/assets/1ae3e1b4-9079-4f13-a2a6-702400794818)
+
 ### Features
 
 Organized Categories: Bookmarks are grouped into distinct categories like Dev Tools, Academics, Social Media, Productivity, Resources, AI Tools, and more, making it easy to find and access links.
